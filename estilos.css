@@ -1,0 +1,56 @@
+.bg-gris{
+    background-color: rgb(179, 179, 201);
+}
+.bg-morado{
+    background-color: rgb(131, 141, 255);
+}
+.border-morado{
+    border-color: azure;
+}
+.bg-rojo{
+    background-color: rgb(202, 221, 254);
+}
+.h-200{
+    height: 200px !important;
+}
+.text-justificado{
+    text-align: justify !important;
+}
+.btn-tipo{
+        --bs-btn-color: #4800ff;
+        --bs-btn-bg: #ffffff;
+        --bs-btn-border-color: #0080ff;
+        --bs-btn-hover-color: #fff;
+        --bs-btn-hover-bg: #0011ff;
+        --bs-btn-hover-border-color: #008efb;
+        --bs-btn-focus-shadow-rgb: 66,70,73;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg: #0091ff;
+        --bs-btn-active-border-color: #373b3e;
+        --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+        --bs-btn-disabled-color: #e90000;
+        --bs-btn-disabled-bg: #d3d63f;
+        --bs-btn-disabled-border-color: #ff0000;
+}
+.mt-6{
+    margin-top: 6rem;
+}
+.table-color {
+    --bs-table-color: #000;
+    --bs-table-bg: #cdf3ff;
+    --bs-table-border-color: #a4ccc8;
+    --bs-table-striped-bg: #c3eaf2;
+    --bs-table-striped-color: #000;
+    --bs-table-active-bg: #b9d6e6;
+    --bs-table-active-color: #000;
+    --bs-table-hover-bg: #bed3ec;
+    --bs-table-hover-color: #000;
+    color: var(--bs-table-color);
+}
+.bg-white{
+    background-color: #a4ccc8;
+}
+.end{
+    float: right;
+    justify-content: flex-end;
+}
